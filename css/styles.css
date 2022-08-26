@@ -139,7 +139,9 @@ main {
 }
 
 .landing-section {
+    background-image: url('../images/bg.jpeg');
     min-height: 90vh;
+    background-size: cover;
 }
 
 .heading-section {
